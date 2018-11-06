@@ -2349,6 +2349,49 @@ body {
 .cid-r800KDMNKw .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-r8zOqPI7Ht {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #000000;
+}
+.cid-r8zOqPI7Ht .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r8zOqPI7Ht .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-r8zOqPI7Ht .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-r8zOqPI7Ht .team-item .item-image img {
+  width: 100%;
+}
+.cid-r8zOqPI7Ht .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-r8zOqPI7Ht .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-r8zOqPI7Ht .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-r8zOqPI7Ht .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-r8zOqPI7Ht .team-item .item-caption {
+  background: #efefef;
+}
+.cid-r8zOqPI7Ht H2 {
+  color: #ffffff;
+}
 .cid-r8pxBsBPYx {
   padding-top: 75px;
   padding-bottom: 75px;
@@ -2812,7 +2855,7 @@ body {
   color: #767676 !important;
 }
 .cid-r8xWdwm5Bh {
-  padding-top: 90px;
+  padding-top: 135px;
   padding-bottom: 0px;
   background-color: #b2ccd2;
 }
@@ -2829,8 +2872,11 @@ body {
   text-align: left;
 }
 .cid-r8ydITXtpX {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 15px;
+  padding-bottom: 0px;
+}
+.cid-r8ydITXtpX H1 {
+  text-align: right;
 }
 .cid-r8zxyD48Nn {
   padding-top: 90px;
@@ -2844,7 +2890,7 @@ body {
   color: #767676;
 }
 .cid-r8zxfUehvZ {
-  background-image: url("../../../assets/images/pills-flora-2000x1145.jpg");
+  background-image: url("../../../assets/images/pills-flora-2-2000x1145.jpg");
 }
 .cid-r8xSyf8eGt {
   padding-top: 90px;
@@ -2853,7 +2899,7 @@ body {
 }
 .cid-r8xSyf8eGt H1 {
   color: #767676;
-  text-align: right;
+  text-align: left;
 }
 .cid-r8xSyf8eGt .mbr-text,
 .cid-r8xSyf8eGt .mbr-section-btn {
