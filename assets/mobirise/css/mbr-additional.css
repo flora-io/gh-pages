@@ -1427,6 +1427,10 @@ body {
 .cid-r8035cXfW7 SPAN {
   color: #0f7699;
 }
+.cid-r8035cXfW7 .mbr-text,
+.cid-r8035cXfW7 .mbr-section-btn I {
+  color: #465052;
+}
 .cid-r8Aww14bRL {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -2911,6 +2915,7 @@ body {
 }
 .cid-r8zxyD48Nn P {
   color: #767676;
+  text-align: left;
 }
 .cid-r8zxfUehvZ {
   background-image: url("../../../assets/images/pills-flora-2-2000x1145.jpg");
