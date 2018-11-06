@@ -1422,10 +1422,56 @@ body {
 .cid-r8035cXfW7 .mbr-text,
 .cid-r8035cXfW7 .mbr-section-btn {
   color: #767676;
-  text-align: right;
+  text-align: center;
 }
 .cid-r8035cXfW7 SPAN {
   color: #0f7699;
+}
+.cid-r8Aww14bRL {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #55b4d4;
+  background: linear-gradient(45deg, #55b4d4, #b2ccd2);
+}
+.cid-r8Aww14bRL .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-r8Aww14bRL .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-r8Aww14bRL .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-r8Aww14bRL .mbr-text {
+    text-align: center;
+  }
+}
+.cid-r8Aww14bRL H1 {
+  color: #149dcc;
+  text-align: right;
+}
+.cid-r8Aww14bRL .mbr-text,
+.cid-r8Aww14bRL .mbr-section-btn {
+  color: #767676;
+  text-align: right;
+}
+.cid-r8Aww14bRL I {
+  color: #0f7699;
+}
+.cid-r8Aww14bRL B {
+  color: #0f7699;
+}
+.cid-r8Aww14bRL DIV {
+  color: #0f7699;
+  text-align: left;
 }
 .cid-r8n0qQ21Ne .navbar {
   background: #b2ccd2;
@@ -1816,29 +1862,6 @@ body {
 .cid-r8n0qQ21Ne .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-r8xM60xSZi {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #b2ccd2;
-}
-.cid-r8xM60xSZi .testimonial-text {
-  font-style: italic;
-  color: #0f7699;
-  font-weight: 300;
-}
-.cid-r8xM60xSZi .mbr-author-name {
-  font-weight: bold;
-  color: #767676;
-}
-.cid-r8xM60xSZi .mbr-author-desc {
-  color: #232;
-}
-.cid-r8xM60xSZi .mbr-author-name SPAN {
-  color: #767676;
-}
-.cid-r8xM60xSZi .testimonial-text SPAN {
-  color: #55b4d4;
-}
 .cid-r8k1P1MSE9 {
   padding-top: 75px;
   padding-bottom: 75px;
@@ -1954,7 +1977,7 @@ body {
   color: #ffffff;
 }
 .cid-r8pUedgNbV .item-name {
-  color: #ffffff;
+  color: #000000;
   text-align: center;
 }
 .cid-r8pUedgNbV .item-role P {
@@ -2387,7 +2410,7 @@ body {
   font-size: 17px;
 }
 .cid-r8zOqPI7Ht .team-item .item-caption {
-  background: #efefef;
+  background: #b2ccd2;
 }
 .cid-r8zOqPI7Ht H2 {
   color: #ffffff;
