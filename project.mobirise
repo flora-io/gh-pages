@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FloraIO_Current",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -50,7 +50,7 @@
     "robotsSwitcher": "",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/flora-mini-icon-128x129.png",
+    "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
     "uniqCompNum": 14,
