@@ -4215,6 +4215,29 @@ body {
 .cid-r8k1P1MSE9 .media-container-row .mbr-text {
   color: #879a9f;
 }
+.cid-s6Q9WbhrRg {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #b2ccd2;
+}
+.cid-s6Q9WbhrRg .testimonial-text {
+  font-style: italic;
+  color: #0f7699;
+  font-weight: 300;
+}
+.cid-s6Q9WbhrRg .mbr-author-name {
+  font-weight: bold;
+  color: #767676;
+}
+.cid-s6Q9WbhrRg .mbr-author-desc {
+  color: #232;
+}
+.cid-s6Q9WbhrRg .mbr-author-name SPAN {
+  color: #767676;
+}
+.cid-s6Q9WbhrRg .testimonial-text SPAN {
+  color: #55b4d4;
+}
 .cid-r800KDMNKw .navbar {
   background: #b2ccd2;
   transition: none;
