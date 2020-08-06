@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FloraIO_Current",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -50,7 +50,7 @@
     "robotsSwitcher": "",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/separately-logo-white-180x180px-3x-128x128.png",
     "noImageResize": "",
     "google-analytics": "",
     "uniqCompNum": 17,
