@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "FloraIO_Current-clone",
+    "name": "FloraIO_Current",
     "currentPage": "floratherapeutics.html",
     "theme": {
       "name": "mobirise4",
@@ -52,7 +52,7 @@
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/separately-logo-white-180x180px-3x-128x128.png",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-174964727-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-174964727-1');\r\n</script>\r\n",
     "uniqCompNum": 21,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
