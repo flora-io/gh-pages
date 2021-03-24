@@ -3654,11 +3654,10 @@ body {
 }
 .cid-ssyUNV2yI5 {
   background: #073b4c;
-  padding-top: 60px;
-  padding-bottom: 60px;
 }
 .cid-ssyUNV2yI5 .image-block {
   margin: auto;
+  width: 100% !important;
 }
 .cid-ssyUNV2yI5 figcaption {
   position: relative;
